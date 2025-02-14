@@ -3,50 +3,43 @@
 <h2 style="color: #2E86C1; font-family: Arial, sans-serif;">Welcome to My GitHub Profile!</h2>
 
 <p style="font-size: 16px; color: #34495E;">
-  I'm a passionate backend developer with experience in building scalable and efficient systems. Below, you'll find information about my projects, skills, and how to reach me.
+  I'm a junior backend developer with experience in building scalable and efficient systems. Below, you'll find information about my projects, skills, and how to reach me.
 </p>
 
 ---
 
 ## 🛠️ Technologies & Tools
-
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
+ PHP  ,MYSQL , Laravel ,JavaScript
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. **Project Name 1**
-   - **Description**: A brief description of the project.
-   - **Tech Stack**: Python, Django, PostgreSQL.
-   - **Link**: [GitHub Repo](#) | [Live Demo](#)
+### 1. **Pharmacy**
+   - **Description**: o Drug Warehouse Management System – Includes a mobile application for
+inventory tracking 
+   - **Tech Stack**: PHP, Laravel, MYSQL.
+   - **Link**: [GitHub Repo](https://github.com/TarekSalha288/Pharmacy) 
 
-### 2. **Project Name 2**
-   - **Description**: A brief description of the project.
-   - **Tech Stack**: Node.js, Express.js, MongoDB.
-   - **Link**: [GitHub Repo](#) | [Live Demo](#)
+### 2. **Socail Media App With Real Time Chat **
+   - **Description**: Like A facebook and Massenger
+   - **Tech Stack**: PHP, Laravel, MYSQL,FireBase.
+   - **Link**: [GitHub Repo](https://github.com/TarekSalha288/Simple_Social_Media_App_With_Laravel11)
 
-### 3. **Project Name 3**
-   - **Description**: A brief description of the project.
-   - **Tech Stack**: Docker, Kubernetes, AWS.
-   - **Link**: [GitHub Repo](#) | [Live Demo](#)
+### 3. **Delivery Application **
+   - **Description**:  Features a super-user and admin dashboard for order
+management
+   - **Tech Stack**: PHP, Laravel, MYSQL,FireBase.
+   - **Link**: [GitHub Repo](https://github.com/TarekSalha288/Mate-Order)
 
 ---
 
 ## 📫 How to Reach Me
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/your-profile)
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
-- **Portfolio**: [Your Portfolio Website](#)
+- **Email**: tareksa395@gmail.com
+- **FaceBook**: [My Profile](https://www.facebook.com/share/1BVQgd6Yzx/)
 
 ---
 
