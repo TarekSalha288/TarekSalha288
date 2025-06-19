@@ -25,7 +25,7 @@ inventory tracking
 
 ### 2. **Socail Media App With Real Time Chat **
    - **Description**: Like A facebook and Massenger
-   - **Tech Stack**: PHP, Laravel, MYSQL,FireBase.
+   - **Tech Stack**: PHP, Laravel, MYSQL,FireBase,Pusher.
    - **Link**: [GitHub Repo](https://github.com/TarekSalha288/Simple_Social_Media_App_With_Laravel11)
 
 ### 3. **Delivery Application **
@@ -33,7 +33,11 @@ inventory tracking
 management
    - **Tech Stack**: PHP, Laravel, MYSQL,FireBase.
    - **Link**: [GitHub Repo](https://github.com/TarekSalha288/Mate-Order)
-
+### 4. **Clinic mangment system**
+   - **Description**:  Features a secretary , admin dashboard for mange appointments and application 
+ for add appointment as a patient
+   - **Tech Stack**: PHP, Laravel, MYSQL,FireBase,Pusher.
+   - **Link**: [GitHub Repo](https://github.com/TarekSalha288/Clinic)
 ---
 
 ## 📫 How to Reach Me
